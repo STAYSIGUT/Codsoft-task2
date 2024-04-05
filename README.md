@@ -1,1 +1,2 @@
-# Codsoft-task2
+# Codsoft
+Project name:- Iris Flower Classification 
